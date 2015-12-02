@@ -1,0 +1,22 @@
+{
+  "name": "centipede",
+  "version": "0.0.1",
+  "description": "small crawler",
+  "main": "crawl.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidbielik/centipede.git"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "David Bielik",
+  "license": "LicenseRef-LICENSE",
+  "bugs": {
+    "url": "https://github.com/davidbielik/centipede/issues"
+  },
+  "homepage": "https://github.com/davidbielik/centipede#readme"
+}
