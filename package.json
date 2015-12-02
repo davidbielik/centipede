@@ -1,6 +1,6 @@
 {
   "name": "centipede",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "small crawler",
   "main": "crawl.js",
   "scripts": {
